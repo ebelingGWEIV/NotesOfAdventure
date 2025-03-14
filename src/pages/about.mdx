@@ -1,0 +1,34 @@
+import BaseLayout from "../layouts/BaseLayout.astro";
+import BaseCard from "../components/BaseCard.astro";
+import Collapse from "../components/mdx/Collapse.astro";
+import Diff from "../components/mdx/Diff.astro";
+import Error from "../components/mdx/Error.astro";
+import Info from "../components/mdx/Info.astro";
+import Kbd from "../components/mdx/Kbd.astro";
+import Success from "../components/mdx/Success.astro";
+import Warning from "../components/mdx/Warning.astro";
+import TimeLine from "../components/mdx/TimeLine.astro";
+import LinkCard from "../components/mdx/LinkCard.astro";
+
+<BaseLayout title="About">
+  <BaseCard title="About">
+# About NotesOfAdventure
+
+---
+
+## Brief introduction
+
+At some point I will decide to make a timeline here. Or maybe I will decide to delete it
+
+## TimeLine
+
+    <TimeLine
+
+items={[
+{ year: "2024-8-4", event: "I decided that I would hike the AT in 2027" },
+{ year: "2025-3-7", event: "First shakedown hike at Lake Vesuvius Backpacker Trail" },
+]}
+/>
+
+  </BaseCard>
+</BaseLayout>
