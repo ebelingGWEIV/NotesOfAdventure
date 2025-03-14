@@ -9,7 +9,7 @@ export const SITE_DESCRIPTION = "Adventure blog";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "Joey";
+export const USER_NAME = "ebelingGWEIV";
 export const USER_SITE = "https://notesofadventure.com"; // At the same time, this is also the site retrieved by the i18n configuration.
 export const USER_AVATAR = "/profile.webp";
 
