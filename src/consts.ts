@@ -45,19 +45,12 @@ export const menuItems = [
         target: "_self",
       }, // All blog
       {
-        id: "tech",
-        text: "Tech blogs",
-        href: "/blog/categories/tech",
-        svg: "material-symbols:deployed-code-outline",
-        target: "_self",
-      }, // Technology category
-      {
-        id: "life",
-        text: "Life blogs",
-        href: "/blog/categories/life",
+        id: "OutdoorAdventures",
+        text: "Grand Adventures",
+        href: "/blog/categories/OutdoorAdventures",
         svg: "material-symbols:earthquake-rounded",
         target: "_self",
-      }, // Life category
+      }, // OutdoorAdventure category
     ],
   }, // Blog page with sub-items
   {
