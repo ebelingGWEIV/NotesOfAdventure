@@ -3,13 +3,13 @@
 
 // Site title and description
 export const SITE_LANG = "en";
-export const SITE_TAB = "Frosti";
-export const SITE_TITLE = "Frosti 🧊";
+export const SITE_TAB = "NoA";
+export const SITE_TITLE = "Notes Of Adventure 🧗";
 export const SITE_DESCRIPTION = "Adventure blog";
 export const DATE_FORMAT = "ddd MMM DD YYYY";
 
 // User profile information
-export const USER_NAME = "ebelingGWEIV";
+export const USER_NAME = "Joey";
 export const USER_SITE = "https://notesofadventure.com"; // At the same time, this is also the site retrieved by the i18n configuration.
 export const USER_AVATAR = "/profile.webp";
 
@@ -69,12 +69,6 @@ export const socialIcons = [
     ariaLabel: "Mastadon",
     title: "Mastadon",
     svg: "ri:cup-line",
-  },
-  {
-    href: "https://github.com/https://github.com/ebelingGWEIV",
-    ariaLabel: "Github",
-    title: "Github",
-    svg: "ri:github-line",
   },
   {
     href: "/rss.xml",
