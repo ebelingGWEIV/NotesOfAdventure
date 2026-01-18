@@ -7,6 +7,8 @@ Makes use of the astro, but all articles are written in markdown. As they say, i
 ## TODO
 
 [ ] Downscale photos to 1080p at most
+[ ] Update timeline
+[ ] Add links to the homepage
 
 # 🧊 Frosti
 
