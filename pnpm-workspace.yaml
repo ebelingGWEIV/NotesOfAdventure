@@ -1,2 +1,4 @@
+minimumReleaseAge: 0
+
 overrides:
   "@iconify/tools": ^4.0.5
